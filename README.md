@@ -2,6 +2,14 @@
 
 This project is the output for following the tutorial on https://www.udemy.com/course/the-complete-guide-to-angular-2. In this course, all Angular features and capabilities are catered including SPA architecture and restful architecture. It uses firebase as the backend.
 
+#Demo
+
+Use the following credentials to access the site:
+email: test@test.com
+password: 123456
+
+To view existing data, click manage, and click fetch data.
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
